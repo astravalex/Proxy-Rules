@@ -3,16 +3,16 @@
 # TOTAL: 7
 
 # Core Domains
-HOST-SUFFIX,diabrowser.com
-HOST-SUFFIX,diabrowser.engineering
-HOST-SUFFIX,diabrowser.io
+HOST-SUFFIX,diabrowser.com,Dia
+HOST-SUFFIX,diabrowser.engineering,Dia
+HOST-SUFFIX,diabrowser.io,Dia
 
 # Auth & Backend Services
-HOST-SUFFIX,clerk.diabrowser.com
-HOST-SUFFIX,api.diabrowser.com
+HOST-SUFFIX,clerk.diabrowser.com,Dia
+HOST-SUFFIX,api.diabrowser.com,Dia
 
 # Assets & Placeholder
-HOST,via.placeholder.com
+HOST,via.placeholder.com,Dia
 
 # Keyword Fallback
-HOST-KEYWORD,diabrowser
+HOST-KEYWORD,diabrowser,Dia

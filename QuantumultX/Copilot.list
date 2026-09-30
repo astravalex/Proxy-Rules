@@ -1,16 +1,21 @@
-# NAME: Copilot
-# UPDATED: 2026-09-30 12:15:00
-# HOST: 9
-# HOST-SUFFIX: 7
-# TOTAL: 16
+# NAME: Copilot (Comprehensive)
+# UPDATED: 2026-09-30 12:30:00
+# HOST: 11
+# HOST-SUFFIX: 8
+# HOST-KEYWORD: 1
+# TOTAL: 20
+HOST-KEYWORD,copilot,Copilot
 HOST-SUFFIX,copilot.microsoft.com,Copilot
 HOST-SUFFIX,copilot.com,Copilot
 HOST-SUFFIX,copilot.cloud.microsoft,Copilot
 HOST,roaming.svc.cloud.microsoft,Copilot
+HOST,licensing.m365.svc.cloud.microsoft,Copilot
 HOST,substrate.office.com,Copilot
-HOST,go.trouter.skype.com,Copilot
+HOST,graph.microsoft.com,Copilot
+HOST-SUFFIX,trouter.skype.com,Copilot
 HOST-SUFFIX,bingapis.com,Copilot
 HOST,sydney.bing.com,Copilot
+HOST,speech.platform.bing.com,Copilot
 HOST-SUFFIX,edgeservices.bing.com,Copilot
 HOST,gateway.bingviz.microsoft.com,Copilot
 HOST,gateway.bingviz.microsoft.net,Copilot

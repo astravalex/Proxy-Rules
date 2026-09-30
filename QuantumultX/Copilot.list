@@ -1,6 +1,6 @@
 # NAME: Copilot (Full Fusion Patch)
 # UPDATED: 2026-09-30 13:00:00
-# TOTAL: 29
+# TOTAL: 30
 HOST-KEYWORD,copilot,Copilot
 HOST-SUFFIX,copilot.microsoft.com,Copilot
 HOST-SUFFIX,copilot.com,Copilot
@@ -30,4 +30,5 @@ HOST,copilot-proxy.githubusercontent.com,Copilot
 HOST,copilot-telemetry.githubusercontent.com,Copilot
 HOST,login.microsoftonline.com,Copilot
 HOST,m365.cloud.microsoft,Copilot
+HOST,res.public.onecdn.static.microsoft,Copilot
 

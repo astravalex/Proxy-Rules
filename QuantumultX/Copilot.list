@@ -1,0 +1,18 @@
+# NAME: Copilot
+# UPDATED: 2026-09-30 10:40:00
+# HOST: 6
+# HOST-SUFFIX: 7
+# TOTAL: 13
+HOST-SUFFIX,copilot.microsoft.com
+HOST-SUFFIX,copilot.com
+HOST-SUFFIX,copilot.cloud.microsoft
+HOST-SUFFIX,bingapis.com
+HOST,sydney.bing.com
+HOST-SUFFIX,edgeservices.bing.com
+HOST,gateway.bingviz.microsoft.com
+HOST,gateway.bingviz.microsoft.net
+HOST,gateway.bingviz.microsoftapp.net
+HOST-SUFFIX,bing-shopping.microsoft-falcon.io
+HOST-SUFFIX,githubcopilot.com
+HOST,copilot-proxy.githubusercontent.com
+HOST,copilot-telemetry.githubusercontent.com

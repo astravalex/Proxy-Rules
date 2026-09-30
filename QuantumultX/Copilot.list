@@ -1,26 +1,31 @@
-# NAME: Copilot (Comprehensive)
-# UPDATED: 2026-09-30 12:30:00
-# HOST: 11
-# HOST-SUFFIX: 8
+# NAME: Copilot (Full Fusion)
+# UPDATED: 2026-09-30 12:45:00
 # HOST-KEYWORD: 1
-# TOTAL: 20
+# HOST-SUFFIX: 10
+# HOST: 14
+# TOTAL: 25
 HOST-KEYWORD,copilot,Copilot
 HOST-SUFFIX,copilot.microsoft.com,Copilot
 HOST-SUFFIX,copilot.com,Copilot
 HOST-SUFFIX,copilot.cloud.microsoft,Copilot
+HOST-SUFFIX,azurefd.net,Copilot
+HOST-SUFFIX,trouter.skype.com,Copilot
+HOST-SUFFIX,bingapis.com,Copilot
+HOST-SUFFIX,edgeservices.bing.com,Copilot
+HOST-SUFFIX,bing-shopping.microsoft-falcon.io,Copilot
+HOST-SUFFIX,api.microsoftapp.net,Copilot
+HOST-SUFFIX,githubcopilot.com,Copilot
+HOST,location.microsoft.com,Copilot
 HOST,roaming.svc.cloud.microsoft,Copilot
 HOST,licensing.m365.svc.cloud.microsoft,Copilot
 HOST,substrate.office.com,Copilot
 HOST,graph.microsoft.com,Copilot
-HOST-SUFFIX,trouter.skype.com,Copilot
-HOST-SUFFIX,bingapis.com,Copilot
 HOST,sydney.bing.com,Copilot
 HOST,speech.platform.bing.com,Copilot
-HOST-SUFFIX,edgeservices.bing.com,Copilot
 HOST,gateway.bingviz.microsoft.com,Copilot
 HOST,gateway.bingviz.microsoft.net,Copilot
 HOST,gateway.bingviz.microsoftapp.net,Copilot
-HOST-SUFFIX,bing-shopping.microsoft-falcon.io,Copilot
-HOST-SUFFIX,githubcopilot.com,Copilot
+HOST,api.msn.com,Copilot
+HOST,assets.msn.com,Copilot
 HOST,copilot-proxy.githubusercontent.com,Copilot
 HOST,copilot-telemetry.githubusercontent.com,Copilot

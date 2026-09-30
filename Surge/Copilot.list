@@ -3,7 +3,7 @@
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 10
 # DOMAIN: 16
-# TOTAL: 29
+# TOTAL: 30
 DOMAIN-KEYWORD,copilot
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,copilot.com
@@ -33,3 +33,4 @@ DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN,login.microsoftonline.com
 DOMAIN,m365.cloud.microsoft
+DOMAIN,res.public.onecdn.static.microsoft

@@ -1,0 +1,18 @@
+# NAME: Dia Browser
+# UPDATED: 2026-09-30
+# TOTAL: 7
+
+# Core Domains
+HOST-SUFFIX,diabrowser.com
+HOST-SUFFIX,diabrowser.engineering
+HOST-SUFFIX,diabrowser.io
+
+# Auth & Backend Services
+HOST-SUFFIX,clerk.diabrowser.com
+HOST-SUFFIX,api.diabrowser.com
+
+# Assets & Placeholder
+HOST,via.placeholder.com
+
+# Keyword Fallback
+HOST-KEYWORD,diabrowser

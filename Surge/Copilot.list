@@ -1,38 +1,42 @@
 # NAME: Copilot
-# UPDATED: 2026-09-30 13:10:00
+# UPDATED: 2026-10-04 16:30:00
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 10
-# DOMAIN: 16
-# TOTAL: 32
+# DOMAIN-SUFFIX: 11
+# DOMAIN: 24
+# TOTAL: 36
 DOMAIN-KEYWORD,copilot
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,copilot.com
 DOMAIN-SUFFIX,copilot.cloud.microsoft
-DOMAIN-SUFFIX,azurefd.net
-DOMAIN-SUFFIX,trouter.skype.com
-DOMAIN-SUFFIX,bingapis.com
-DOMAIN-SUFFIX,edgeservices.bing.com
-DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
-DOMAIN-SUFFIX,api.microsoftapp.net
+DOMAIN-SUFFIX,m365copilotapp.svc.cloud.microsoft
 DOMAIN-SUFFIX,githubcopilot.com
-DOMAIN,teams.microsoft.com
-DOMAIN,titles.prod.mos.microsoft.com
-DOMAIN,location.microsoft.com
+DOMAIN,m365.cloud.microsoft
 DOMAIN,roaming.svc.cloud.microsoft
 DOMAIN,licensing.m365.svc.cloud.microsoft
+DOMAIN,substrate.svc.cloud.microsoft
 DOMAIN,substrate.office.com
+DOMAIN,titles.prod.mos.microsoft.com
 DOMAIN,graph.microsoft.com
+DOMAIN,teams.microsoft.com
+DOMAIN,location.microsoft.com
+DOMAIN,login.microsoft.com
+DOMAIN,login.microsoftonline.com
+DOMAIN,login.live.com
+DOMAIN,account.live.com
+DOMAIN,odc.officeapps.live.com
 DOMAIN,sydney.bing.com
 DOMAIN,speech.platform.bing.com
 DOMAIN,gateway.bingviz.microsoft.com
 DOMAIN,gateway.bingviz.microsoft.net
 DOMAIN,gateway.bingviz.microsoftapp.net
+DOMAIN-SUFFIX,edgeservices.bing.com
+DOMAIN-SUFFIX,bingapis.com
+DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
+DOMAIN-SUFFIX,azurefd.net
+DOMAIN-SUFFIX,trouter.skype.com
+DOMAIN-SUFFIX,api.microsoftapp.net
 DOMAIN,api.msn.com
 DOMAIN,assets.msn.com
+DOMAIN,res.public.onecdn.static.microsoft
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
-DOMAIN,login.microsoftonline.com
-DOMAIN,m365.cloud.microsoft
-DOMAIN,res.public.onecdn.static.microsoft
-DOMAIN,login.live.com
-DOMAIN,account.live.com
